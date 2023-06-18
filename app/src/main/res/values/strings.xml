@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProjectOne</string>
+    <string name="greet">Selamat Datang</string>
+    <string name="add">Add</string>
+    <string name="sub">Sub</string>
+    <string name="mul">Mul</string>
+    <string name="div">Div</string>
+
+    <string name="judulADD">Penambahan</string>
+    <string name="judulSUB">Pengurangan</string>
+    <string name="judulMUL">Perkalian</string>
+    <string name="judulDIV">Pembagian</string>
+
+    <string name="submit">Submit</string>
+</resources>
