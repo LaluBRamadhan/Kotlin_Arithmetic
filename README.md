@@ -17,9 +17,9 @@
 - Antarmuka yang sederhana dan intuitif memudahkan pengguna dalam memasukkan bilangan dan melihat hasil perhitungan.
 - Memberikan hasil perhitungan secara instan, sehingga pengguna dapat dengan cepat melihat hasil operasi aritmatika.
 
-## Technology used : 
+## STACK: 
 
-Bahasa Pemrograman: Kotlin
+Kotlin
 IDE: Android Studio
 Arsitektur: Single Activity
 Komponen UI: EditText, Button, TextView
