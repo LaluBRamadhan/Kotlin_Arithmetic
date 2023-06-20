@@ -18,12 +18,7 @@
 - Memberikan hasil perhitungan secara instan, sehingga pengguna dapat dengan cepat melihat hasil operasi aritmatika.
 
 ## STACK: 
-
-Kotlin
-IDE: Android Studio
-Arsitektur: Single Activity
-Komponen UI: EditText, Button, TextView
-
+- Kotlin
 
 ## Installation
 
